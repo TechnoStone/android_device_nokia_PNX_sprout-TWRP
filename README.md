@@ -13,7 +13,7 @@ Nokia 8.1 was announced and released in Nov 2018.
 | Shipped Android version | 9.0.0                               |
 | Battery      | Non-removable Li-Po 3500 mAh                    |
 | Dimensions   | 154.8 x 75.8 x 8 mm (6.09 x 2.98 x 0.31 in)                         |
-| Display      | 1080 x 2280 pixels, 19:9 ratio (~408 ppi density)                   |
+| Display      | 1080 x 2246 pixels, 19:9 ratio (~408 ppi density)                   |
 
 
 How to build
